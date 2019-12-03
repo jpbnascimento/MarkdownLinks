@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1575310281041" clover="3.2.0">
-  <project timestamp="1575310281041" name="All files">
-    <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4" elements="22" coveredelements="22" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+<coverage generated="1575398221806" clover="3.2.0">
+  <project timestamp="1575398221806" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4" elements="21" coveredelements="21" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
     <file name="index.js" path="/Users/Yara/Desktop/MarkdownLinks/lib/index.js">
-      <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
-      <line num="19" count="1" type="stmt"/>
-      <line num="23" count="1" type="stmt"/>
-      <line num="24" count="3" type="stmt"/>
-      <line num="25" count="3" type="cond" truecount="2" falsecount="0"/>
-      <line num="26" count="1" type="stmt"/>
-      <line num="28" count="3" type="stmt"/>
-      <line num="29" count="2" type="cond" truecount="2" falsecount="0"/>
-      <line num="30" count="1" type="stmt"/>
-      <line num="33" count="1" type="stmt"/>
-      <line num="35" count="1" type="stmt"/>
-      <line num="36" count="2" type="stmt"/>
-      <line num="37" count="2" type="stmt"/>
-      <line num="42" count="1" type="stmt"/>
-      <line num="47" count="1" type="stmt"/>
+      <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
