@@ -1,23 +1,10 @@
 # Markdown Links
 
-## Filtrando o links de um arquivo Markdown
+Markdown é uma linguagem de marcação muito popular entre os programadores. É usada em muitas plataformas que manipulam texto (GitHub, fórum, blogs e etc), e é muito comum encontrar arquivos com este formato em qualquer repositório (começando pelo tradicional README.md).
 
+## O Projeto 
 
-O MdLinks permite filtrar em arquivos com formato .md URL's e suas descrições exemplo: [npm-scripts](https://docs.npmjs.com/misc/scripts).
-
-Tecnologias Usadas:
-
-Para criar esta biblioteca foi utilizado o JavaScript, teste com Jest, .
-
-Para rodar o aplicativo basta usar o comando 'npm install jpbnascimento/MarkdownLinks' no terminal, dentro da pasta .
-
-Utilizando a biblioteca:
-
-Para utilizar a aplicação atraves da CLI seguir os seguintes passos:
-
-Testes:
-
-Para os testes unitários foi utilizado o jest. basta rodar o comando 'npm test'.
+Este pojeto tem como objetivo 
 
 ## Como instalar:
 
@@ -25,12 +12,25 @@ Para os testes unitários foi utilizado o jest. basta rodar o comando 'npm test'
 
 $ npm install jpbnascimento/MarkdownLinks
 
+```
+
 ## Como utilizar:
 
 ```node
 
-> const qualquer = require("chayote-lib");
-> console.log(qualquer(10))
-> // returns "dez"
+> const MarkdownLinks = require("jpbnascimento/MarkdownLinks");
+> MarkdownLinks("./example.md")
+> .then(links => {
+    // => [{ href, text }]
+  })
+> .catch(console.error);
 
 ```
+
+## Tecnologias Usadas:
+
+Para criar esta biblioteca foi utilizado o JavaScript, teste com Jest, NodeJs.
+
+## Desenvolvedora 
+
+• Jéssica Nascimento / Laboratória SP
