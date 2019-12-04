@@ -4,7 +4,7 @@ Markdown é uma linguagem de marcação muito popular entre os programadores. É
 
 ## O Projeto 
 
-Está biblioteca tem como objetivo facilitar aos usuários extrair links de documentos Markdown de forma facilitada.
+Esta biblioteca tem como objetivo facilitar aos usuários extrair links de documentos Markdown de forma facilitada.
 
 ## Como instalar:
 
