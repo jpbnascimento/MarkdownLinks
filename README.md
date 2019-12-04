@@ -4,7 +4,7 @@ Markdown é uma linguagem de marcação muito popular entre os programadores. É
 
 ## O Projeto 
 
-Este pojeto tem como objetivo 
+Está biblioteca tem como objetivo facilitar aos usuários extrair links de documentos Markdown de forma facilitada.
 
 ## Como instalar:
 
@@ -29,7 +29,7 @@ $ npm install jpbnascimento/MarkdownLinks
 
 ## Tecnologias Usadas:
 
-Para criar esta biblioteca foi utilizado o JavaScript, teste com Jest, NodeJs.
+JavaScript, teste com Jest, NodeJs.
 
 ## Desenvolvedora 
 
